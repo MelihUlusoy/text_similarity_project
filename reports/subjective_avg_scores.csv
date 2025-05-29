@@ -1,0 +1,17 @@
+model,subjective_score
+lemmatized_sg0_win3_dim100.model,5.0
+lemmatized_sg1_win3_dim100.model,5.0
+stemmed_sg1_win5_dim50.model,5.0
+lemmatized_sg0_win3_dim50.model,4.8
+lemmatized_sg0_win5_dim100.model,4.8
+lemmatized_sg0_win5_dim50.model,4.8
+stemmed_sg0_win3_dim100.model,4.8
+stemmed_sg0_win5_dim100.model,4.8
+stemmed_sg0_win5_dim50.model,4.8
+lemmatized_sg1_win5_dim100.model,4.6
+lemmatized_sg1_win5_dim50.model,4.6
+stemmed_sg0_win3_dim50.model,4.6
+stemmed_sg1_win3_dim100.model,4.6
+stemmed_sg1_win5_dim100.model,4.6
+lemmatized_sg1_win3_dim50.model,4.4
+stemmed_sg1_win3_dim50.model,4.4

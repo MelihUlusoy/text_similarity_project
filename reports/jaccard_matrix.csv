@@ -1,0 +1,17 @@
+,lemmatized_sg0_win3_dim100.model,lemmatized_sg0_win3_dim50.model,lemmatized_sg0_win5_dim100.model,lemmatized_sg0_win5_dim50.model,lemmatized_sg1_win3_dim100.model,lemmatized_sg1_win3_dim50.model,lemmatized_sg1_win5_dim100.model,lemmatized_sg1_win5_dim50.model,stemmed_sg0_win3_dim100.model,stemmed_sg0_win3_dim50.model,stemmed_sg0_win5_dim100.model,stemmed_sg0_win5_dim50.model,stemmed_sg1_win3_dim100.model,stemmed_sg1_win3_dim50.model,stemmed_sg1_win5_dim100.model,stemmed_sg1_win5_dim50.model
+lemmatized_sg0_win3_dim100.model,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+lemmatized_sg0_win3_dim50.model,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+lemmatized_sg0_win5_dim100.model,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+lemmatized_sg0_win5_dim50.model,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+lemmatized_sg1_win3_dim100.model,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+lemmatized_sg1_win3_dim50.model,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+lemmatized_sg1_win5_dim100.model,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+lemmatized_sg1_win5_dim50.model,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+stemmed_sg0_win3_dim100.model,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+stemmed_sg0_win3_dim50.model,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+stemmed_sg0_win5_dim100.model,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+stemmed_sg0_win5_dim50.model,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+stemmed_sg1_win3_dim100.model,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+stemmed_sg1_win3_dim50.model,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+stemmed_sg1_win5_dim100.model,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+stemmed_sg1_win5_dim50.model,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
