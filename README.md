@@ -1,5 +1,3 @@
-Elbette! Aşağıda projenin içeriğine uygun, detaylı ve profesyonel bir `README.md` dosyası örneği bulacaksın. Bu dosya hem projenin ne yaptığını açıklar hem de nasıl kurulup çalıştırılacağını anlatır.
-
 ---
 
 ### 📄 `README.md`
